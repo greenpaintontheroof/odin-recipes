@@ -1,0 +1,71 @@
+h1, h3 {
+    color: black;
+    background-color: #F7CAC9;
+    font-weight: 700;
+    font-family: "Verdana", "Arial", Sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+a {
+    font-size: 25px;
+    font-family: "Times New Roman", "Garamond", Serif;
+    color: #55B4B0;
+}
+
+h4, h5 {
+    font-family: "Verdana", "Arial", Sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+p {
+    color: #000000;
+    font-size: 21px;
+    font-family: "Times New Roman", "Garamond", Serif;
+}
+
+li {
+    color: #000000;
+    font-family: "Times New Roman", "Garamond", Serif;
+    font-size: 19px
+}
+
+.ingredients {
+    font-size: 19px
+}
+
+.ingredients.optional {
+    font-size: 18px;
+}
+
+.specifc {
+    font-size: 15px;
+}
+
+.optional-instructions {
+    font-size: 18px;
+}
+
+.note {
+    color: #55B4B0
+}
+
+#mini-header {
+    font-size: 20px
+}
+
+
